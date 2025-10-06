@@ -14,12 +14,12 @@
 
 ## 🚀 About Me
 
-Saya adalah seorang **Cloud Engineer**, **IT Security** dan **Backend Developer** yang berdedikasi untuk menciptakan solusi inovatif dan efisien. Dengan pengalaman **2+ tahun** dalam pengembangan web dan desain, saya telah menyelesaikan **5+ proyek** dengan berbagai teknologi modern.
+Saya adalah seorang **Cloud Engineer**, **IT Security** dan **Fullstack Developer** yang berdedikasi untuk menciptakan solusi inovatif dan efisien. Dengan pengalaman **2+ tahun** dalam pengembangan web dan desain, saya telah menyelesaikan **5+ proyek** dengan berbagai teknologi modern.
 
 ### 🎯 What I Do
 - ☁️ **Cloud Engineering** – Designing, deploying, and optimizing secure and scalable cloud infrastructures.
 - 🔒 **IT Security** – Implementing and maintaining strong security measures to protect systems and data.
-- 🖥️ **Backend Development** – Building robust, high-performance server-side systems and APIs.  
+- 🖥️ **Fullstack Development** – Building robust, high-performance full-stacked systems and APIs.  
 - 🤖 **AI Integration** - Implementing AI-powered solutions in web applications
 - 📱 **Responsive Design** - Ensuring seamless experience across all devices
 
