@@ -14,11 +14,12 @@
 
 ## 🚀 About Me
 
-Saya adalah seorang **Full Stack Web Developer** dan **UI/UX Designer** yang berdedikasi untuk menciptakan solusi inovatif dan efisien. Dengan pengalaman **4+ tahun** dalam pengembangan web dan desain, saya telah menyelesaikan **45+ proyek** dengan berbagai teknologi modern.
+Saya adalah seorang **Cloud Engineer**, **IT Security** dan **Backend Developer** yang berdedikasi untuk menciptakan solusi inovatif dan efisien. Dengan pengalaman **2+ tahun** dalam pengembangan web dan desain, saya telah menyelesaikan **5+ proyek** dengan berbagai teknologi modern.
 
 ### 🎯 What I Do
-- 💻 **Full Stack Development** - Building scalable web applications
-- 🎨 **UI/UX Design** - Creating intuitive and beautiful user experiences  
+- ☁️ Cloud Engineering – Designing, deploying, and optimizing secure and scalable cloud infrastructures.
+- 🔒 IT Security – Implementing and maintaining strong security measures to protect systems and data.
+- 🖥️ Backend Development – Building robust, high-performance server-side systems and APIs.  
 - 🤖 **AI Integration** - Implementing AI-powered solutions in web applications
 - 📱 **Responsive Design** - Ensuring seamless experience across all devices
 
