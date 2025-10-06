@@ -2,12 +2,12 @@
   <img src="public/assets/hero-image.png" alt="Sabilillah Ramaniya Widodo" width="200" style="border-radius: 50%;" />
   
   # 👋 Hi, I'm Sabilillah Ramaniya Widodo
-  ### Cloud Engineer & IT Security
+  ### Cloud DevOps Engineer & IT Security
   
   [![GitHub followers](https://img.shields.io/github/followers/sblrm?label=Follow&style=social)](https://github.com/sblrm)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sblrm)](https://linkedin.com/in/sblrm)
   
-  *"Kode yang indah, lahir dari ketekunan. 👌"*
+  *"It's all about consistency."*
 </div>
 
 ---
