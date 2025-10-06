@@ -2,7 +2,7 @@
   <img src="public/assets/hero-image.png" alt="Sabilillah Ramaniya Widodo" width="200" style="border-radius: 50%;" />
   
   # 👋 Hi, I'm Sabilillah Ramaniya Widodo
-  ### Full Stack Web Developer & UI/UX Designer
+  ### Cloud Engineer & IT Security
   
   [![GitHub followers](https://img.shields.io/github/followers/sblrm?label=Follow&style=social)](https://github.com/sblrm)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sblrm)](https://linkedin.com/in/sblrm)
@@ -17,9 +17,9 @@
 Saya adalah seorang **Cloud Engineer**, **IT Security** dan **Backend Developer** yang berdedikasi untuk menciptakan solusi inovatif dan efisien. Dengan pengalaman **2+ tahun** dalam pengembangan web dan desain, saya telah menyelesaikan **5+ proyek** dengan berbagai teknologi modern.
 
 ### 🎯 What I Do
-- ☁️ Cloud Engineering – Designing, deploying, and optimizing secure and scalable cloud infrastructures.
-- 🔒 IT Security – Implementing and maintaining strong security measures to protect systems and data.
-- 🖥️ Backend Development – Building robust, high-performance server-side systems and APIs.  
+- ☁️ **Cloud Engineering** – Designing, deploying, and optimizing secure and scalable cloud infrastructures.
+- 🔒 **IT Security** – Implementing and maintaining strong security measures to protect systems and data.
+- 🖥️ **Backend Development** – Building robust, high-performance server-side systems and APIs.  
 - 🤖 **AI Integration** - Implementing AI-powered solutions in web applications
 - 📱 **Responsive Design** - Ensuring seamless experience across all devices
 
