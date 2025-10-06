@@ -29,7 +29,6 @@ Saya adalah seorang **Full Stack Web Developer** dan **UI/UX Designer** yang ber
 <div align="center">
 
 ### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -120,7 +119,6 @@ This portfolio website is built with modern technologies:
 - 🎨 **Tailwind CSS v4** - Utility-first CSS framework
 - 🎭 **Remix Icons** - Beautiful icon library
 - 📱 **Responsive Design** - Mobile-first approach
-- ✨ **AOS Animations** - Scroll animations for better UX
 
 ### 🚀 Quick Start
 
@@ -162,12 +160,11 @@ npm run build
 
 ## 🎓 Experience & Achievements
 
-- 🏆 **4+ Years** of web development experience
-- 🚀 **45+ Successful** projects completed
+- 🏆 **2+ Years** of web development experience
+- 🚀 **5+ Successful** projects completed
 - 💼 **Full Stack** development expertise
-- 🎨 **UI/UX Design** specialization
 - 🤖 **AI Integration** in web applications
-- 📱 **Responsive** and **Mobile-First** design approach
+- 📱 **Responsive** design approach
 
 ---
 
@@ -189,7 +186,7 @@ npm run build
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://sblrm-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sblrm)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sblrm)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabilillah1324@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabilillah.widodo@binus.ac.id)
 
 </div>
 
