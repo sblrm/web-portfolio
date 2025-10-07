@@ -50,22 +50,6 @@ Saya adalah seorang **Cloud DevOps Engineer** dan **IT Security** yang berdedika
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sblrm&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sblrm&theme=tokyonight)
-  
-</div>
-
----
-
 ## 🎨 Featured Projects
 
 ### 🌍 CulturalTrip
