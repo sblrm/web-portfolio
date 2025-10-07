@@ -150,17 +150,6 @@ npm run build
 
 ---
 
-## 🌟 Why Choose Me for Your Internship?
-
-- ✅ **Proven Track Record** - 45+ completed projects showcase my dedication and skill
-- ✅ **Modern Tech Stack** - Proficient in latest technologies and frameworks
-- ✅ **AI Integration** - Experience with cutting-edge AI technologies like Gemini API
-- ✅ **Full Stack Capability** - Can handle both frontend and backend development
-- ✅ **Design Skills** - Strong UI/UX background for better user experiences
-- ✅ **Continuous Learning** - Always staying updated with latest industry trends
-
----
-
 ## 📞 Let's Connect!
 
 <div align="center">
